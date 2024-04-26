@@ -1,0 +1,15 @@
+email:
+  sender_email: 'update'
+  recipient_email: 'update'
+  smtp_server: 'smtp.163.com'
+  smtp_port: 25
+  smtp_username: 'update'
+  smtp_password: 'update'
+
+api:
+  url: 'https://lwps.ustb.xiaoetong.cn/openapi/api/pc/v1/paper/ongoing-activity/student/all'
+  cookies:
+    JSESSIONID: 'update'
+    acw_tc: 'update'
+  headers:
+    Authorization: 'update'
